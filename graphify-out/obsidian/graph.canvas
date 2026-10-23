@@ -1,0 +1,3018 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Community 0",
+      "x": 0,
+      "y": 0,
+      "width": 1100,
+      "height": 620,
+      "color": "1"
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_init",
+      "type": "file",
+      "file": ".__init__()_4.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_connection",
+      "type": "file",
+      "file": "._connection().md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_decrypt",
+      "type": "file",
+      "file": "._decrypt().md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_encrypt",
+      "type": "file",
+      "file": "._encrypt().md",
+      "x": 620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_initialize",
+      "type": "file",
+      "file": "._initialize().md",
+      "x": 820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_attach_payment",
+      "type": "file",
+      "file": ".attach_payment().md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_begin_supplier_purchase",
+      "type": "file",
+      "file": ".begin_supplier_purchase().md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_create_order",
+      "type": "file",
+      "file": ".create_order().md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_delivery",
+      "type": "file",
+      "file": ".delivery().md",
+      "x": 620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_get_by_id",
+      "type": "file",
+      "file": ".get_by_id().md",
+      "x": 820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_get_by_payment",
+      "type": "file",
+      "file": ".get_by_payment().md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_list_for_user",
+      "type": "file",
+      "file": ".list_for_user().md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_mark_paid",
+      "type": "file",
+      "file": ".mark_paid().md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_purchase_request",
+      "type": "file",
+      "file": ".purchase_request().md",
+      "x": 620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_save_purchase_result",
+      "type": "file",
+      "file": ".save_purchase_result().md",
+      "x": 820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_update_status",
+      "type": "file",
+      "file": ".update_status().md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore_update_supplier_status",
+      "type": "file",
+      "file": ".update_supplier_status().md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_any",
+      "type": "file",
+      "file": "Any.md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_connection",
+      "type": "file",
+      "file": "Connection.md",
+      "x": 620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_orderstore",
+      "type": "file",
+      "file": "OrderStore.md",
+      "x": 820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage",
+      "type": "file",
+      "file": "storage.py.md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_storage_utc_now",
+      "type": "file",
+      "file": "utc_now().md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Community 1",
+      "x": 1180,
+      "y": 0,
+      "width": 660,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_tests_test_storage_orderstoretests_create_order",
+      "type": "file",
+      "file": ".create_order()_1.md",
+      "x": 1200,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_storage_orderstoretests_test_order_inputs_are_encrypted_and_scoped_to_owner",
+      "type": "file",
+      "file": ".test_order_inputs_are_encrypted_and_scoped_to_owner().md",
+      "x": 1400,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_storage_orderstoretests_test_payment_and_supplier_transitions_are_idempotent",
+      "type": "file",
+      "file": ".test_payment_and_supplier_transitions_are_idempotent().md",
+      "x": 1600,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_storage_orderstoretests",
+      "type": "file",
+      "file": "OrderStoreTests.md",
+      "x": 1200,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_storage",
+      "type": "file",
+      "file": "test_storage.py.md",
+      "x": 1400,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Community 2",
+      "x": 2800,
+      "y": 0,
+      "width": 1540,
+      "height": 720,
+      "color": "3"
+    },
+    {
+      "id": "n_tests_test_bot_flow_fakemessage_init",
+      "type": "file",
+      "file": ".__init__()_6.md",
+      "x": 2820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_fakecanboso_init",
+      "type": "file",
+      "file": ".__init__()_7.md",
+      "x": 3020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_fakepayexa_init",
+      "type": "file",
+      "file": ".__init__()_8.md",
+      "x": 3220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_fakecanboso_balance",
+      "type": "file",
+      "file": ".balance()_1.md",
+      "x": 3420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_config_settings_checkout_ready",
+      "type": "file",
+      "file": ".checkout_ready().md",
+      "x": 3620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_fakepayexa_create_payment",
+      "type": "file",
+      "file": ".create_payment()_1.md",
+      "x": 3820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_fakecanboso_orders",
+      "type": "file",
+      "file": ".orders()_1.md",
+      "x": 4020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_fakecanboso_products",
+      "type": "file",
+      "file": ".products()_1.md",
+      "x": 2820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_fakecanboso_purchase",
+      "type": "file",
+      "file": ".purchase()_1.md",
+      "x": 3020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_fakemessage_reply_text",
+      "type": "file",
+      "file": ".reply_text().md",
+      "x": 3220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_send_admin_message",
+      "type": "file",
+      "file": ".send_admin_message().md",
+      "x": 3420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_setup",
+      "type": "file",
+      "file": ".setUp().md",
+      "x": 3620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_all_brand_categories_appear_without_category_pagination",
+      "type": "file",
+      "file": ".test_all_brand_categories_appear_without_category_pagination().md",
+      "x": 3820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_brand_category_shows_only_matching_provider_brand",
+      "type": "file",
+      "file": ".test_brand_category_shows_only_matching_provider_brand().md",
+      "x": 4020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_business_slot_email_month_selection_creates_api_contract_payload",
+      "type": "file",
+      "file": ".test_business_slot_email_month_selection_creates_api_contract_payload().md",
+      "x": 2820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_cancel_button_clears_an_unpaid_checkout_draft",
+      "type": "file",
+      "file": ".test_cancel_button_clears_an_unpaid_checkout_draft().md",
+      "x": 3020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_cancel_command_clears_an_unpaid_checkout_draft",
+      "type": "file",
+      "file": ".test_cancel_command_clears_an_unpaid_checkout_draft().md",
+      "x": 3220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_catalog_search_matches_provider_description",
+      "type": "file",
+      "file": ".test_catalog_search_matches_provider_description().md",
+      "x": 3420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_checkout_stops_before_payment_when_supplier_wallet_is_insufficient",
+      "type": "file",
+      "file": ".test_checkout_stops_before_payment_when_supplier_wallet_is_insufficient().md",
+      "x": 3620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_fractional_payment_amount_is_not_truncated_into_a_match",
+      "type": "file",
+      "file": ".test_fractional_payment_amount_is_not_truncated_into_a_match().md",
+      "x": 3820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_live_verified_payment_fulfills_once_and_encrypts_delivery",
+      "type": "file",
+      "file": ".test_live_verified_payment_fulfills_once_and_encrypts_delivery().md",
+      "x": 4020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_main_keyboard_has_support_action",
+      "type": "file",
+      "file": ".test_main_keyboard_has_support_action().md",
+      "x": 2820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_main_menu_highlights_the_primary_shop_action",
+      "type": "file",
+      "file": ".test_main_menu_highlights_the_primary_shop_action().md",
+      "x": 3020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_mismatched_payment_amount_does_not_create_supplier_purchase",
+      "type": "file",
+      "file": ".test_mismatched_payment_amount_does_not_create_supplier_purchase().md",
+      "x": 3220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_old_waiting_order_uses_exact_supplier_lookup_when_recent_history_omits_it",
+      "type": "file",
+      "file": ".test_old_waiting_order_uses_exact_supplier_lookup_when_recent_history_omits_it().md",
+      "x": 3420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_price_rounds_up_to_whole_thousand_riyal",
+      "type": "file",
+      "file": ".test_price_rounds_up_to_whole_thousand_riyal().md",
+      "x": 3620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_product_details_use_provider_name_and_description_verbatim",
+      "type": "file",
+      "file": ".test_product_details_use_provider_name_and_description_verbatim().md",
+      "x": 3820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_products_menu_groups_available_items_by_provider_brand",
+      "type": "file",
+      "file": ".test_products_menu_groups_available_items_by_provider_brand().md",
+      "x": 4020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_start_shows_a_persistent_native_menu",
+      "type": "file",
+      "file": ".test_start_shows_a_persistent_native_menu().md",
+      "x": 2820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_supplier_rejection_marks_order_for_manual_refund_and_alerts_admin",
+      "type": "file",
+      "file": ".test_supplier_rejection_marks_order_for_manual_refund_and_alerts_admin().md",
+      "x": 3020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_support_menu_shows_direct_contact_link",
+      "type": "file",
+      "file": ".test_support_menu_shows_direct_contact_link().md",
+      "x": 3220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_fakepayexa_verify",
+      "type": "file",
+      "file": ".verify()_1.md",
+      "x": 3420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests",
+      "type": "file",
+      "file": "BotFlowTests.md",
+      "x": 3620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_fakecanboso",
+      "type": "file",
+      "file": "FakeCanboso.md",
+      "x": 3820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_fakemessage",
+      "type": "file",
+      "file": "FakeMessage.md",
+      "x": 4020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_fakepayexa",
+      "type": "file",
+      "file": "FakePayexa.md",
+      "x": 2820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_config_settings",
+      "type": "file",
+      "file": "Settings.md",
+      "x": 3020,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_quote_irr",
+      "type": "file",
+      "file": "_quote_irr().md",
+      "x": 3220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow",
+      "type": "file",
+      "file": "test_bot_flow.py.md",
+      "x": 3420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Community 3",
+      "x": 4420,
+      "y": 0,
+      "width": 1320,
+      "height": 720,
+      "color": "4"
+    },
+    {
+      "id": "n_tests_test_api_clients_fakeasyncclient_aenter",
+      "type": "file",
+      "file": ".__aenter__().md",
+      "x": 4440,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_api_clients_fakeasyncclient_aexit",
+      "type": "file",
+      "file": ".__aexit__().md",
+      "x": 4640,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_canboso_canbosoerror_init",
+      "type": "file",
+      "file": ".__init__().md",
+      "x": 4840,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_canboso_canbosoclient_init",
+      "type": "file",
+      "file": ".__init__()_1.md",
+      "x": 5040,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_payexa_payexaerror_init",
+      "type": "file",
+      "file": ".__init__()_2.md",
+      "x": 5240,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_payexa_payexaclient_init",
+      "type": "file",
+      "file": ".__init__()_3.md",
+      "x": 5440,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_api_clients_fakeasyncclient_init",
+      "type": "file",
+      "file": ".__init__()_5.md",
+      "x": 4440,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_payexa_payexaclient_post",
+      "type": "file",
+      "file": "._post().md",
+      "x": 4640,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_canboso_canbosoclient_request",
+      "type": "file",
+      "file": "._request().md",
+      "x": 4840,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_canboso_canbosoclient_balance",
+      "type": "file",
+      "file": ".balance().md",
+      "x": 5040,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_payexa_payexaclient_create_payment",
+      "type": "file",
+      "file": ".create_payment().md",
+      "x": 5240,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_canboso_canbosoclient_orders",
+      "type": "file",
+      "file": ".orders().md",
+      "x": 5440,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_api_clients_fakeasyncclient_post",
+      "type": "file",
+      "file": ".post().md",
+      "x": 4440,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_canboso_canbosoclient_products",
+      "type": "file",
+      "file": ".products().md",
+      "x": 4640,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_canboso_canbosoclient_purchase",
+      "type": "file",
+      "file": ".purchase().md",
+      "x": 4840,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_api_clients_fakeasyncclient_request",
+      "type": "file",
+      "file": ".request().md",
+      "x": 5040,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_api_clients_apiclienttests_test_canboso_errors_are_reported_without_accepting_rejected_response",
+      "type": "file",
+      "file": ".test_canboso_errors_are_reported_without_accepting_rejected_response().md",
+      "x": 5240,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_api_clients_apiclienttests_test_canboso_order_history_supports_exact_order_lookup",
+      "type": "file",
+      "file": ".test_canboso_order_history_supports_exact_order_lookup().md",
+      "x": 5440,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_api_clients_apiclienttests_test_canboso_requests_match_buyer_api_contract",
+      "type": "file",
+      "file": ".test_canboso_requests_match_buyer_api_contract().md",
+      "x": 4440,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_api_clients_apiclienttests_test_payexa_create_and_verify_use_server_auth_and_matching_amount",
+      "type": "file",
+      "file": ".test_payexa_create_and_verify_use_server_auth_and_matching_amount().md",
+      "x": 4640,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_payexa_payexaclient_verify",
+      "type": "file",
+      "file": ".verify().md",
+      "x": 4840,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_api_clients_apiclienttests",
+      "type": "file",
+      "file": "ApiClientTests.md",
+      "x": 5040,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_canboso_canbosoclient",
+      "type": "file",
+      "file": "CanbosoClient.md",
+      "x": 5240,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_canboso_canbosoerror",
+      "type": "file",
+      "file": "CanbosoError.md",
+      "x": 5440,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_api_clients_fakeasyncclient",
+      "type": "file",
+      "file": "FakeAsyncClient.md",
+      "x": 4440,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_payexa_payexaclient",
+      "type": "file",
+      "file": "PayexaClient.md",
+      "x": 4640,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_payexa_payexaerror",
+      "type": "file",
+      "file": "PayexaError.md",
+      "x": 4840,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_runtimeerror",
+      "type": "file",
+      "file": "RuntimeError.md",
+      "x": 5040,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_canboso",
+      "type": "file",
+      "file": "canboso.py.md",
+      "x": 5240,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_payexa",
+      "type": "file",
+      "file": "payexa.py.md",
+      "x": 5440,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_api_clients",
+      "type": "file",
+      "file": "test_api_clients.py.md",
+      "x": 4440,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "Community 4",
+      "x": 0,
+      "y": 800,
+      "width": 1100,
+      "height": 620,
+      "color": "5"
+    },
+    {
+      "id": "n_tests_test_config_settingstests_setup",
+      "type": "file",
+      "file": ".setUp()_1.md",
+      "x": 20,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_storage_orderstoretests_setup",
+      "type": "file",
+      "file": ".setUp()_2.md",
+      "x": 220,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_application_applicationwiringtests_test_application_registers_all_user_routes_without_starting_networking",
+      "type": "file",
+      "file": ".test_application_registers_all_user_routes_without_starting_networking().md",
+      "x": 420,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_config_settingstests_test_invalid_admin_id_does_not_enable_checkout",
+      "type": "file",
+      "file": ".test_invalid_admin_id_does_not_enable_checkout().md",
+      "x": 620,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_config_settingstests_test_invalid_pricing_and_encryption_settings_are_rejected",
+      "type": "file",
+      "file": ".test_invalid_pricing_and_encryption_settings_are_rejected().md",
+      "x": 820,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_config_settingstests_test_required_bot_and_supplier_keys_fail_closed",
+      "type": "file",
+      "file": ".test_required_bot_and_supplier_keys_fail_closed().md",
+      "x": 20,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_config_settingstests_test_valid_settings_enable_checkout_only_with_all_required_values",
+      "type": "file",
+      "file": ".test_valid_settings_enable_checkout_only_with_all_required_values().md",
+      "x": 220,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_application",
+      "type": "file",
+      "file": "Application.md",
+      "x": 420,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_application_applicationwiringtests",
+      "type": "file",
+      "file": "ApplicationWiringTests.md",
+      "x": 620,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_config_configurationerror",
+      "type": "file",
+      "file": "ConfigurationError.md",
+      "x": 820,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_decimal",
+      "type": "file",
+      "file": "Decimal.md",
+      "x": 20,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_path",
+      "type": "file",
+      "file": "Path.md",
+      "x": 220,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_config_settingstests",
+      "type": "file",
+      "file": "SettingsTests.md",
+      "x": 420,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_valueerror",
+      "type": "file",
+      "file": "ValueError.md",
+      "x": 620,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_main",
+      "type": "file",
+      "file": "__main__.py.md",
+      "x": 820,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_build_application",
+      "type": "file",
+      "file": "build_application().md",
+      "x": 20,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_config",
+      "type": "file",
+      "file": "config.py.md",
+      "x": 220,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_config_load_settings",
+      "type": "file",
+      "file": "load_settings().md",
+      "x": 420,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_main_main",
+      "type": "file",
+      "file": "main().md",
+      "x": 620,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_application",
+      "type": "file",
+      "file": "test_application.py.md",
+      "x": 820,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_config",
+      "type": "file",
+      "file": "test_config.py.md",
+      "x": 20,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Community 5",
+      "x": 1180,
+      "y": 800,
+      "width": 1540,
+      "height": 820,
+      "color": "6"
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_product_back_button_restores_category_and_page",
+      "type": "file",
+      "file": ".test_product_back_button_restores_category_and_page().md",
+      "x": 1200,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_product_search_shows_only_matching_results",
+      "type": "file",
+      "file": ".test_product_search_shows_only_matching_results().md",
+      "x": 1400,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tests_test_bot_flow_botflowtests_test_sandbox_checkout_and_verification_never_spend_supplier_wallet",
+      "type": "file",
+      "file": ".test_sandbox_checkout_and_verification_never_spend_supplier_wallet().md",
+      "x": 1600,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_default_type",
+      "type": "file",
+      "file": "DEFAULT_TYPE.md",
+      "x": 1800,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_inlinekeyboardmarkup",
+      "type": "file",
+      "file": "InlineKeyboardMarkup.md",
+      "x": 2000,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_replykeyboardmarkup",
+      "type": "file",
+      "file": "ReplyKeyboardMarkup.md",
+      "x": 2200,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_update",
+      "type": "file",
+      "file": "Update.md",
+      "x": 2400,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_ask_months",
+      "type": "file",
+      "file": "_ask_months().md",
+      "x": 1200,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_available",
+      "type": "file",
+      "file": "_available().md",
+      "x": 1400,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_begin_checkout",
+      "type": "file",
+      "file": "_begin_checkout().md",
+      "x": 1600,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_brand_category",
+      "type": "file",
+      "file": "_brand_category().md",
+      "x": 1800,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_brand_label",
+      "type": "file",
+      "file": "_brand_label().md",
+      "x": 2000,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_cancel_keyboard",
+      "type": "file",
+      "file": "_cancel_keyboard().md",
+      "x": 2200,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_catalog",
+      "type": "file",
+      "file": "_catalog().md",
+      "x": 2400,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_collect_requirement",
+      "type": "file",
+      "file": "_collect_requirement().md",
+      "x": 1200,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_create_order_and_payment",
+      "type": "file",
+      "file": "_create_order_and_payment().md",
+      "x": 1400,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_format_accounts",
+      "type": "file",
+      "file": "_format_accounts().md",
+      "x": 1600,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_home_keyboard",
+      "type": "file",
+      "file": "_home_keyboard().md",
+      "x": 1800,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_is_private",
+      "type": "file",
+      "file": "_is_private().md",
+      "x": 2000,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_main_keyboard",
+      "type": "file",
+      "file": "_main_keyboard().md",
+      "x": 2200,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_on_error",
+      "type": "file",
+      "file": "_on_error().md",
+      "x": 2400,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_order_summary",
+      "type": "file",
+      "file": "_order_summary().md",
+      "x": 1200,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_orders_keyboard",
+      "type": "file",
+      "file": "_orders_keyboard().md",
+      "x": 1400,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_process_verified_order",
+      "type": "file",
+      "file": "_process_verified_order().md",
+      "x": 1600,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_product_sale_price",
+      "type": "file",
+      "file": "_product_sale_price().md",
+      "x": 1800,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_reply_long",
+      "type": "file",
+      "file": "_reply_long().md",
+      "x": 2000,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_safe_edit",
+      "type": "file",
+      "file": "_safe_edit().md",
+      "x": 2200,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_search_cancel_keyboard",
+      "type": "file",
+      "file": "_search_cancel_keyboard().md",
+      "x": 2400,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_search_text",
+      "type": "file",
+      "file": "_search_text().md",
+      "x": 1200,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_send_delivery",
+      "type": "file",
+      "file": "_send_delivery().md",
+      "x": 1400,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_show_catalog",
+      "type": "file",
+      "file": "_show_catalog().md",
+      "x": 1600,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_show_catalog_entry",
+      "type": "file",
+      "file": "_show_catalog_entry().md",
+      "x": 1800,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_show_orders",
+      "type": "file",
+      "file": "_show_orders().md",
+      "x": 2000,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_show_product",
+      "type": "file",
+      "file": "_show_product().md",
+      "x": 2200,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_supplier_outcome",
+      "type": "file",
+      "file": "_supplier_outcome().md",
+      "x": 2400,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_toman",
+      "type": "file",
+      "file": "_toman().md",
+      "x": 1200,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_usd_price",
+      "type": "file",
+      "file": "_usd_price().md",
+      "x": 1400,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_verify_payment",
+      "type": "file",
+      "file": "_verify_payment().md",
+      "x": 1600,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot",
+      "type": "file",
+      "file": "bot.py.md",
+      "x": 1800,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_callback",
+      "type": "file",
+      "file": "callback().md",
+      "x": 2000,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_cancel_command",
+      "type": "file",
+      "file": "cancel_command().md",
+      "x": 2200,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_help_command",
+      "type": "file",
+      "file": "help_command().md",
+      "x": 2400,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_products_command",
+      "type": "file",
+      "file": "products_command().md",
+      "x": 1200,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_start",
+      "type": "file",
+      "file": "start().md",
+      "x": 1400,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_bot_text_router",
+      "type": "file",
+      "file": "text_router().md",
+      "x": 1600,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "Community 7",
+      "x": 2800,
+      "y": 800,
+      "width": 660,
+      "height": 420,
+      "color": "1"
+    },
+    {
+      "id": "n_plans_2026_10_22_hamechi_market_mvp",
+      "type": "file",
+      "file": "2026-10-22-hamechi-market-mvp.md",
+      "x": 2820,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_plans_2026_10_22_hamechi_market_mvp_global_constraints",
+      "type": "file",
+      "file": "Global Constraints.md",
+      "x": 3020,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_plans_2026_10_22_hamechi_market_mvp_hamechimarket_mvp_implementation_plan",
+      "type": "file",
+      "file": "HameChiMarket MVP Implementation Plan.md",
+      "x": 3220,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_plans_2026_10_22_hamechi_market_mvp_review_focus",
+      "type": "file",
+      "file": "Review Focus.md",
+      "x": 2820,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_plans_2026_10_22_hamechi_market_mvp_task_1_project_configuration_and_persistence",
+      "type": "file",
+      "file": "Task 1 Project configuration and persistence.md",
+      "x": 3020,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_plans_2026_10_22_hamechi_market_mvp_task_2_supplier_and_payment_clients",
+      "type": "file",
+      "file": "Task 2 Supplier and payment clients.md",
+      "x": 3220,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_plans_2026_10_22_hamechi_market_mvp_task_3_telegram_storefront_and_order_state_machine",
+      "type": "file",
+      "file": "Task 3 Telegram storefront and order state machine.md",
+      "x": 2820,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_plans_2026_10_22_hamechi_market_mvp_task_4_project_memory_and_syntax_verification",
+      "type": "file",
+      "file": "Task 4 Project memory and syntax verification.md",
+      "x": 3020,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "Community 8",
+      "x": 4420,
+      "y": 800,
+      "width": 660,
+      "height": 420,
+      "color": "2"
+    },
+    {
+      "id": "n_specs_2026_10_22_hamechi_market_design",
+      "type": "file",
+      "file": "2026-10-22-hamechi-market-design.md",
+      "x": 4440,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_specs_2026_10_22_hamechi_market_design_confirmed_constraints_and_decisions",
+      "type": "file",
+      "file": "Confirmed constraints and decisions.md",
+      "x": 4640,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_specs_2026_10_22_hamechi_market_design_goals",
+      "type": "file",
+      "file": "Goals.md",
+      "x": 4840,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_specs_2026_10_22_hamechi_market_design_hamechimarket_mvp_design",
+      "type": "file",
+      "file": "HameChiMarket MVP Design.md",
+      "x": 4440,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_specs_2026_10_22_hamechi_market_design_intent",
+      "type": "file",
+      "file": "Intent.md",
+      "x": 4640,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_specs_2026_10_22_hamechi_market_design_non_goals_for_the_first_slice",
+      "type": "file",
+      "file": "Non-goals for the first slice.md",
+      "x": 4840,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_specs_2026_10_22_hamechi_market_design_open_operational_inputs",
+      "type": "file",
+      "file": "Open operational inputs.md",
+      "x": 4440,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_specs_2026_10_22_hamechi_market_design_order_flow",
+      "type": "file",
+      "file": "Order flow.md",
+      "x": 4640,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "Community 9",
+      "x": 0,
+      "y": 1700,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_readme_hamechimarket",
+      "type": "file",
+      "file": "HameChiMarket.md",
+      "x": 20,
+      "y": 1780,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme",
+      "type": "file",
+      "file": "README.md",
+      "x": 220,
+      "y": 1780,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_\u0631\u0627\u0647_\u0627\u0646\u062f\u0627\u0632\u06cc_\u0645\u062d\u0644\u06cc",
+      "type": "file",
+      "file": "\u0631\u0627\u0647\u200c\u0627\u0646\u062f\u0627\u0632\u06cc \u0645\u062d\u0644\u06cc.md",
+      "x": 20,
+      "y": 1860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_\u0631\u0641\u062a\u0627\u0631_\u0648_\u0645\u062d\u062f\u0648\u062f\u06cc\u062a_\u0647\u0627",
+      "type": "file",
+      "file": "\u0631\u0641\u062a\u0627\u0631 \u0648 \u0645\u062d\u062f\u0648\u062f\u06cc\u062a\u200c\u0647\u0627.md",
+      "x": 220,
+      "y": 1860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g11",
+      "type": "group",
+      "label": "Community 11",
+      "x": 1180,
+      "y": 1700,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_agents",
+      "type": "file",
+      "file": "AGENTS.md",
+      "x": 1200,
+      "y": 1780,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_agents_hamechimarket_agent_notes",
+      "type": "file",
+      "file": "HameChiMarket agent notes.md",
+      "x": 1400,
+      "y": 1780,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g12",
+      "type": "group",
+      "label": "Community 12",
+      "x": 2800,
+      "y": 1700,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_hamechi_market_init_rationale_1",
+      "type": "file",
+      "file": "HameChiMarket Telegram storefront..md",
+      "x": 2820,
+      "y": 1780,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hamechi_market_init",
+      "type": "file",
+      "file": "__init__.py.md",
+      "x": 3020,
+      "y": 1780,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g13",
+      "type": "group",
+      "label": "Community 13",
+      "x": 4420,
+      "y": 1700,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_pkg_hamechi_market",
+      "type": "file",
+      "file": "hamechi-market.md",
+      "x": 4440,
+      "y": 1780,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_hamechi_market_init_hamechi_market_init_rationale_1",
+      "fromNode": "n_hamechi_market_init",
+      "toNode": "n_hamechi_market_init_rationale_1",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_main_hamechi_market_bot",
+      "fromNode": "n_hamechi_market_main",
+      "toNode": "n_hamechi_market_bot",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_main_hamechi_market_bot_build_application",
+      "fromNode": "n_hamechi_market_main",
+      "toNode": "n_hamechi_market_bot_build_application",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_main_hamechi_market_config",
+      "fromNode": "n_hamechi_market_main",
+      "toNode": "n_hamechi_market_config",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_main_hamechi_market_config_configurationerror",
+      "fromNode": "n_hamechi_market_main",
+      "toNode": "n_hamechi_market_config_configurationerror",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_main_hamechi_market_config_load_settings",
+      "fromNode": "n_hamechi_market_main",
+      "toNode": "n_hamechi_market_config_load_settings",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_main_hamechi_market_main_main",
+      "fromNode": "n_hamechi_market_main",
+      "toNode": "n_hamechi_market_main_main",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_main_main_hamechi_market_bot_build_application",
+      "fromNode": "n_hamechi_market_main_main",
+      "toNode": "n_hamechi_market_bot_build_application",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_main_main_hamechi_market_config_load_settings",
+      "fromNode": "n_hamechi_market_main_main",
+      "toNode": "n_hamechi_market_config_load_settings",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_decimal",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_decimal",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_ask_months",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_ask_months",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_available",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_available",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_begin_checkout",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_begin_checkout",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_brand_category",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_brand_category",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_brand_label",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_brand_label",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_build_application",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_build_application",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_callback",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_callback",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_cancel_command",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_cancel_command",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_cancel_keyboard",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_cancel_keyboard",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_catalog",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_catalog",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_collect_requirement",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_collect_requirement",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_create_order_and_payment",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_create_order_and_payment",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_format_accounts",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_format_accounts",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_help_command",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_help_command",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_home_keyboard",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_home_keyboard",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_is_private",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_is_private",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_main_keyboard",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_main_keyboard",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_on_error",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_on_error",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_order_summary",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_order_summary",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_orders_keyboard",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_orders_keyboard",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_process_verified_order",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_process_verified_order",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_product_sale_price",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_product_sale_price",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_products_command",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_products_command",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_quote_irr",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_quote_irr",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_reply_long",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_reply_long",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_safe_edit",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_safe_edit",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_search_cancel_keyboard",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_search_cancel_keyboard",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_search_text",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_search_text",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_send_delivery",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_send_delivery",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_show_catalog",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_show_catalog",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_show_catalog_entry",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_show_catalog_entry",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_show_orders",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_show_orders",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_show_product",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_show_product",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_start",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_start",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_supplier_outcome",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_supplier_outcome",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_text_router",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_text_router",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_toman",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_toman",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_usd_price",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_usd_price",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_bot_verify_payment",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_bot_verify_payment",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_canboso",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_canboso",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_canboso_canbosoclient",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_canboso_canbosoclient",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_canboso_canbosoerror",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_canboso_canbosoerror",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_config",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_config",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_config_settings",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_config_settings",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_payexa",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_payexa",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_payexa_payexaclient",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_payexa_payexaclient",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_payexa_payexaerror",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_payexa_payexaerror",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_storage",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_storage",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_hamechi_market_storage_orderstore",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_hamechi_market_storage_orderstore",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_tests_test_application",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_tests_test_application",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_tests_test_bot_flow",
+      "fromNode": "n_hamechi_market_bot",
+      "toNode": "n_tests_test_bot_flow",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_is_private_hamechi_market_bot_callback",
+      "fromNode": "n_hamechi_market_bot_is_private",
+      "toNode": "n_hamechi_market_bot_callback",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_is_private_hamechi_market_bot_cancel_command",
+      "fromNode": "n_hamechi_market_bot_is_private",
+      "toNode": "n_hamechi_market_bot_cancel_command",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_is_private_hamechi_market_bot_help_command",
+      "fromNode": "n_hamechi_market_bot_is_private",
+      "toNode": "n_hamechi_market_bot_help_command",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_is_private_update",
+      "fromNode": "n_hamechi_market_bot_is_private",
+      "toNode": "n_update",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_is_private_hamechi_market_bot_products_command",
+      "fromNode": "n_hamechi_market_bot_is_private",
+      "toNode": "n_hamechi_market_bot_products_command",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_is_private_hamechi_market_bot_start",
+      "fromNode": "n_hamechi_market_bot_is_private",
+      "toNode": "n_hamechi_market_bot_start",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_is_private_hamechi_market_bot_text_router",
+      "fromNode": "n_hamechi_market_bot_is_private",
+      "toNode": "n_hamechi_market_bot_text_router",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_begin_checkout",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_begin_checkout",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_callback",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_callback",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_cancel_command",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_cancel_command",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_collect_requirement",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_collect_requirement",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_create_order_and_payment",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_create_order_and_payment",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_help_command",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_help_command",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_process_verified_order",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_process_verified_order",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_products_command",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_products_command",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_send_delivery",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_send_delivery",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_show_catalog",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_show_catalog",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_show_catalog_entry",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_show_catalog_entry",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_show_orders",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_show_orders",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_show_product",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_show_product",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_start",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_start",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_text_router",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_text_router",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_update_hamechi_market_bot_verify_payment",
+      "fromNode": "n_update",
+      "toNode": "n_hamechi_market_bot_verify_payment",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_available_any",
+      "fromNode": "n_hamechi_market_bot_available",
+      "toNode": "n_any",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_available_hamechi_market_bot_begin_checkout",
+      "fromNode": "n_hamechi_market_bot_available",
+      "toNode": "n_hamechi_market_bot_begin_checkout",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_available_hamechi_market_bot_create_order_and_payment",
+      "fromNode": "n_hamechi_market_bot_available",
+      "toNode": "n_hamechi_market_bot_create_order_and_payment",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_available_hamechi_market_bot_process_verified_order",
+      "fromNode": "n_hamechi_market_bot_available",
+      "toNode": "n_hamechi_market_bot_process_verified_order",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_available_hamechi_market_bot_show_catalog",
+      "fromNode": "n_hamechi_market_bot_available",
+      "toNode": "n_hamechi_market_bot_show_catalog",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_available_hamechi_market_bot_show_catalog_entry",
+      "fromNode": "n_hamechi_market_bot_available",
+      "toNode": "n_hamechi_market_bot_show_catalog_entry",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_available_hamechi_market_bot_show_product",
+      "fromNode": "n_hamechi_market_bot_available",
+      "toNode": "n_hamechi_market_bot_show_product",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_bot_ask_months",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_bot_ask_months",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_bot_brand_category",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_bot_brand_category",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_bot_catalog",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_bot_catalog",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_bot_format_accounts",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_bot_format_accounts",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_bot_order_summary",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_bot_order_summary",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_bot_orders_keyboard",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_bot_orders_keyboard",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_bot_process_verified_order",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_bot_process_verified_order",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_bot_product_sale_price",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_bot_product_sale_price",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_bot_reply_long",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_bot_reply_long",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_bot_safe_edit",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_bot_safe_edit",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_bot_search_text",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_bot_search_text",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_bot_supplier_outcome",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_bot_supplier_outcome",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_bot_usd_price",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_bot_usd_price",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_canboso_canbosoclient_orders",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_canboso_canbosoclient_orders",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_canboso_canbosoclient_products",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_canboso_canbosoclient_products",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_canboso_canbosoclient_purchase",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_canboso_canbosoclient_purchase",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_canboso_canbosoclient_request",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_canboso_canbosoclient_request",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_payexa_payexaclient_create_payment",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_payexa_payexaclient_create_payment",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_payexa_payexaclient_post",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_payexa_payexaclient_post",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_payexa_payexaclient_verify",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_payexa_payexaclient_verify",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_storage_orderstore_create_order",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_storage_orderstore_create_order",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_storage_orderstore_decrypt",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_storage_orderstore_decrypt",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_storage_orderstore_delivery",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_storage_orderstore_delivery",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_storage_orderstore_encrypt",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_storage_orderstore_encrypt",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_storage_orderstore_get_by_id",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_storage_orderstore_get_by_id",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_storage_orderstore_get_by_payment",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_storage_orderstore_get_by_payment",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_storage_orderstore_list_for_user",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_storage_orderstore_list_for_user",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_storage_orderstore_purchase_request",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_storage_orderstore_purchase_request",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_storage_orderstore_save_purchase_result",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_storage_orderstore_save_purchase_result",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_any_hamechi_market_storage_orderstore_update_supplier_status",
+      "fromNode": "n_any",
+      "toNode": "n_hamechi_market_storage_orderstore_update_supplier_status",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_brand_category_hamechi_market_bot_show_catalog",
+      "fromNode": "n_hamechi_market_bot_brand_category",
+      "toNode": "n_hamechi_market_bot_show_catalog",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_brand_category_hamechi_market_bot_show_catalog_entry",
+      "fromNode": "n_hamechi_market_bot_brand_category",
+      "toNode": "n_hamechi_market_bot_show_catalog_entry",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_brand_label_hamechi_market_bot_show_catalog",
+      "fromNode": "n_hamechi_market_bot_brand_label",
+      "toNode": "n_hamechi_market_bot_show_catalog",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_brand_label_hamechi_market_bot_show_catalog_entry",
+      "fromNode": "n_hamechi_market_bot_brand_label",
+      "toNode": "n_hamechi_market_bot_show_catalog_entry",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_search_text_hamechi_market_bot_show_catalog",
+      "fromNode": "n_hamechi_market_bot_search_text",
+      "toNode": "n_hamechi_market_bot_show_catalog",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_usd_price_hamechi_market_bot_begin_checkout",
+      "fromNode": "n_hamechi_market_bot_usd_price",
+      "toNode": "n_hamechi_market_bot_begin_checkout",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_usd_price_hamechi_market_bot_create_order_and_payment",
+      "fromNode": "n_hamechi_market_bot_usd_price",
+      "toNode": "n_hamechi_market_bot_create_order_and_payment",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_usd_price_hamechi_market_bot_process_verified_order",
+      "fromNode": "n_hamechi_market_bot_usd_price",
+      "toNode": "n_hamechi_market_bot_process_verified_order",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_usd_price_hamechi_market_bot_product_sale_price",
+      "fromNode": "n_hamechi_market_bot_usd_price",
+      "toNode": "n_hamechi_market_bot_product_sale_price",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_usd_price_decimal",
+      "fromNode": "n_hamechi_market_bot_usd_price",
+      "toNode": "n_decimal",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_decimal_hamechi_market_bot_process_verified_order",
+      "fromNode": "n_decimal",
+      "toNode": "n_hamechi_market_bot_process_verified_order",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_decimal_hamechi_market_bot_quote_irr",
+      "fromNode": "n_decimal",
+      "toNode": "n_hamechi_market_bot_quote_irr",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_decimal_hamechi_market_canboso",
+      "fromNode": "n_decimal",
+      "toNode": "n_hamechi_market_canboso",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_decimal_hamechi_market_canboso_canbosoclient_balance",
+      "fromNode": "n_decimal",
+      "toNode": "n_hamechi_market_canboso_canbosoclient_balance",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_decimal_hamechi_market_config",
+      "fromNode": "n_decimal",
+      "toNode": "n_hamechi_market_config",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_decimal_tests_test_application",
+      "fromNode": "n_decimal",
+      "toNode": "n_tests_test_application",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_decimal_tests_test_bot_flow",
+      "fromNode": "n_decimal",
+      "toNode": "n_tests_test_bot_flow",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_quote_irr_hamechi_market_bot_begin_checkout",
+      "fromNode": "n_hamechi_market_bot_quote_irr",
+      "toNode": "n_hamechi_market_bot_begin_checkout",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_quote_irr_hamechi_market_bot_create_order_and_payment",
+      "fromNode": "n_hamechi_market_bot_quote_irr",
+      "toNode": "n_hamechi_market_bot_create_order_and_payment",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_quote_irr_hamechi_market_bot_product_sale_price",
+      "fromNode": "n_hamechi_market_bot_quote_irr",
+      "toNode": "n_hamechi_market_bot_product_sale_price",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_quote_irr_hamechi_market_config_settings",
+      "fromNode": "n_hamechi_market_bot_quote_irr",
+      "toNode": "n_hamechi_market_config_settings",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_quote_irr_tests_test_bot_flow_botflowtests_test_price_rounds_up_to_whole_thousand_riyal",
+      "fromNode": "n_hamechi_market_bot_quote_irr",
+      "toNode": "n_tests_test_bot_flow_botflowtests_test_price_rounds_up_to_whole_thousand_riyal",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_toman_hamechi_market_bot_create_order_and_payment",
+      "fromNode": "n_hamechi_market_bot_toman",
+      "toNode": "n_hamechi_market_bot_create_order_and_payment",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_toman_hamechi_market_bot_order_summary",
+      "fromNode": "n_hamechi_market_bot_toman",
+      "toNode": "n_hamechi_market_bot_order_summary",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_toman_hamechi_market_bot_product_sale_price",
+      "fromNode": "n_hamechi_market_bot_toman",
+      "toNode": "n_hamechi_market_bot_product_sale_price",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_product_sale_price_hamechi_market_config_settings",
+      "fromNode": "n_hamechi_market_bot_product_sale_price",
+      "toNode": "n_hamechi_market_config_settings",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_product_sale_price_hamechi_market_bot_show_catalog",
+      "fromNode": "n_hamechi_market_bot_product_sale_price",
+      "toNode": "n_hamechi_market_bot_show_catalog",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_product_sale_price_hamechi_market_bot_show_product",
+      "fromNode": "n_hamechi_market_bot_product_sale_price",
+      "toNode": "n_hamechi_market_bot_show_product",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_supplier_outcome_hamechi_market_bot_process_verified_order",
+      "fromNode": "n_hamechi_market_bot_supplier_outcome",
+      "toNode": "n_hamechi_market_bot_process_verified_order",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_supplier_outcome_hamechi_market_bot_show_orders",
+      "fromNode": "n_hamechi_market_bot_supplier_outcome",
+      "toNode": "n_hamechi_market_bot_show_orders",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_catalog_hamechi_market_bot_begin_checkout",
+      "fromNode": "n_hamechi_market_bot_catalog",
+      "toNode": "n_hamechi_market_bot_begin_checkout",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_catalog_default_type",
+      "fromNode": "n_hamechi_market_bot_catalog",
+      "toNode": "n_default_type",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_catalog_hamechi_market_bot_create_order_and_payment",
+      "fromNode": "n_hamechi_market_bot_catalog",
+      "toNode": "n_hamechi_market_bot_create_order_and_payment",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_catalog_hamechi_market_bot_show_catalog",
+      "fromNode": "n_hamechi_market_bot_catalog",
+      "toNode": "n_hamechi_market_bot_show_catalog",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_catalog_hamechi_market_bot_show_catalog_entry",
+      "fromNode": "n_hamechi_market_bot_catalog",
+      "toNode": "n_hamechi_market_bot_show_catalog_entry",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_catalog_hamechi_market_bot_show_product",
+      "fromNode": "n_hamechi_market_bot_catalog",
+      "toNode": "n_hamechi_market_bot_show_product",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_begin_checkout",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_begin_checkout",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_callback",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_callback",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_cancel_command",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_cancel_command",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_collect_requirement",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_collect_requirement",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_create_order_and_payment",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_create_order_and_payment",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_help_command",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_help_command",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_on_error",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_on_error",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_process_verified_order",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_process_verified_order",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_products_command",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_products_command",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_send_delivery",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_send_delivery",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_show_catalog",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_show_catalog",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_show_catalog_entry",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_show_catalog_entry",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_show_orders",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_show_orders",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_show_product",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_show_product",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_start",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_start",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_text_router",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_text_router",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_default_type_hamechi_market_bot_verify_payment",
+      "fromNode": "n_default_type",
+      "toNode": "n_hamechi_market_bot_verify_payment",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_main_keyboard_hamechi_market_bot_begin_checkout",
+      "fromNode": "n_hamechi_market_bot_main_keyboard",
+      "toNode": "n_hamechi_market_bot_begin_checkout",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_main_keyboard_hamechi_market_bot_callback",
+      "fromNode": "n_hamechi_market_bot_main_keyboard",
+      "toNode": "n_hamechi_market_bot_callback",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_main_keyboard_inlinekeyboardmarkup",
+      "fromNode": "n_hamechi_market_bot_main_keyboard",
+      "toNode": "n_inlinekeyboardmarkup",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_main_keyboard_hamechi_market_bot_process_verified_order",
+      "fromNode": "n_hamechi_market_bot_main_keyboard",
+      "toNode": "n_hamechi_market_bot_process_verified_order",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_main_keyboard_hamechi_market_bot_show_catalog",
+      "fromNode": "n_hamechi_market_bot_main_keyboard",
+      "toNode": "n_hamechi_market_bot_show_catalog",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_main_keyboard_hamechi_market_bot_show_catalog_entry",
+      "fromNode": "n_hamechi_market_bot_main_keyboard",
+      "toNode": "n_hamechi_market_bot_show_catalog_entry",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_main_keyboard_hamechi_market_bot_show_orders",
+      "fromNode": "n_hamechi_market_bot_main_keyboard",
+      "toNode": "n_hamechi_market_bot_show_orders",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_main_keyboard_hamechi_market_bot_show_product",
+      "fromNode": "n_hamechi_market_bot_main_keyboard",
+      "toNode": "n_hamechi_market_bot_show_product",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_main_keyboard_hamechi_market_bot_start",
+      "fromNode": "n_hamechi_market_bot_main_keyboard",
+      "toNode": "n_hamechi_market_bot_start",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_main_keyboard_hamechi_market_bot_verify_payment",
+      "fromNode": "n_hamechi_market_bot_main_keyboard",
+      "toNode": "n_hamechi_market_bot_verify_payment",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_main_keyboard_tests_test_bot_flow_botflowtests_test_main_keyboard_has_support_action",
+      "fromNode": "n_hamechi_market_bot_main_keyboard",
+      "toNode": "n_tests_test_bot_flow_botflowtests_test_main_keyboard_has_support_action",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_main_keyboard_tests_test_bot_flow_botflowtests_test_main_menu_highlights_the_primary_shop_action",
+      "fromNode": "n_hamechi_market_bot_main_keyboard",
+      "toNode": "n_tests_test_bot_flow_botflowtests_test_main_menu_highlights_the_primary_shop_action",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_inlinekeyboardmarkup_hamechi_market_bot_ask_months",
+      "fromNode": "n_inlinekeyboardmarkup",
+      "toNode": "n_hamechi_market_bot_ask_months",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_inlinekeyboardmarkup_hamechi_market_bot_cancel_keyboard",
+      "fromNode": "n_inlinekeyboardmarkup",
+      "toNode": "n_hamechi_market_bot_cancel_keyboard",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_inlinekeyboardmarkup_hamechi_market_bot_create_order_and_payment",
+      "fromNode": "n_inlinekeyboardmarkup",
+      "toNode": "n_hamechi_market_bot_create_order_and_payment",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_inlinekeyboardmarkup_hamechi_market_bot_orders_keyboard",
+      "fromNode": "n_inlinekeyboardmarkup",
+      "toNode": "n_hamechi_market_bot_orders_keyboard",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_inlinekeyboardmarkup_hamechi_market_bot_reply_long",
+      "fromNode": "n_inlinekeyboardmarkup",
+      "toNode": "n_hamechi_market_bot_reply_long",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_inlinekeyboardmarkup_hamechi_market_bot_safe_edit",
+      "fromNode": "n_inlinekeyboardmarkup",
+      "toNode": "n_hamechi_market_bot_safe_edit",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_inlinekeyboardmarkup_hamechi_market_bot_search_cancel_keyboard",
+      "fromNode": "n_inlinekeyboardmarkup",
+      "toNode": "n_hamechi_market_bot_search_cancel_keyboard",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_inlinekeyboardmarkup_hamechi_market_bot_show_catalog",
+      "fromNode": "n_inlinekeyboardmarkup",
+      "toNode": "n_hamechi_market_bot_show_catalog",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_inlinekeyboardmarkup_hamechi_market_bot_show_catalog_entry",
+      "fromNode": "n_inlinekeyboardmarkup",
+      "toNode": "n_hamechi_market_bot_show_catalog_entry",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_inlinekeyboardmarkup_hamechi_market_bot_show_orders",
+      "fromNode": "n_inlinekeyboardmarkup",
+      "toNode": "n_hamechi_market_bot_show_orders",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_inlinekeyboardmarkup_hamechi_market_bot_show_product",
+      "fromNode": "n_inlinekeyboardmarkup",
+      "toNode": "n_hamechi_market_bot_show_product",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_inlinekeyboardmarkup_hamechi_market_bot_text_router",
+      "fromNode": "n_inlinekeyboardmarkup",
+      "toNode": "n_hamechi_market_bot_text_router",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_home_keyboard_hamechi_market_bot_cancel_command",
+      "fromNode": "n_hamechi_market_bot_home_keyboard",
+      "toNode": "n_hamechi_market_bot_cancel_command",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_hamechi_market_bot_home_keyboard_hamechi_market_bot_collect_requirement",
+      "fromNode": "n_hamechi_market_bot_home_keyboard",
+      "toNode": "n_hamechi_market_bot_collect_requirement",
+      "label": "calls [EXTRACTED]"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+data/
+.playwright-mcp/
+graphify-out/.graphify_*
+graphify-out/graph.html

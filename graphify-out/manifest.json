@@ -1,0 +1,92 @@
+{
+  "pyproject.toml": {
+    "mtime": 1792665846.1717196,
+    "ast_hash": "3c0a4d5da5b5e87e54186a404c75080e",
+    "semantic_hash": ""
+  },
+  "src/hamechi_market/__init__.py": {
+    "mtime": 1792665425.3900049,
+    "ast_hash": "b1a9226accbb2d6833b2201c2144f313",
+    "semantic_hash": ""
+  },
+  "src/hamechi_market/__main__.py": {
+    "mtime": 1792665826.1417923,
+    "ast_hash": "87f27b6a73bdde993151db90b2b17744",
+    "semantic_hash": ""
+  },
+  "src/hamechi_market/bot.py": {
+    "mtime": 1792685941.8286202,
+    "ast_hash": "c03f7c6fad8ca8b20d87d4e400156ce8",
+    "semantic_hash": ""
+  },
+  "src/hamechi_market/canboso.py": {
+    "mtime": 1792667780.4042468,
+    "ast_hash": "56dd81149e0a1f4cea4c673c3b67a110",
+    "semantic_hash": ""
+  },
+  "src/hamechi_market/config.py": {
+    "mtime": 1792665994.5908391,
+    "ast_hash": "6ecb168e0769e7c30b1b20039fccf669",
+    "semantic_hash": ""
+  },
+  "src/hamechi_market/payexa.py": {
+    "mtime": 1792665759.329283,
+    "ast_hash": "48475c90095b6f0cb9aab6d8f2053c0a",
+    "semantic_hash": ""
+  },
+  "src/hamechi_market/storage.py": {
+    "mtime": 1792666602.2612145,
+    "ast_hash": "3c092fd0d7432e6e4743f67ba8733cfd",
+    "semantic_hash": ""
+  },
+  "AGENTS.md": {
+    "mtime": 1792667021.1153097,
+    "ast_hash": "a77714f9160e495fbaf0cf07644fb1da",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1792685946.712697,
+    "ast_hash": "def27bfe9db67ca7eccb644501fea7c5",
+    "semantic_hash": ""
+  },
+  "docs/superpowers/plans/2026-10-22-hamechi-market-mvp.md": {
+    "mtime": 1792666089.4186425,
+    "ast_hash": "b80e5c872d56257be9f45f1e98f7bc04",
+    "semantic_hash": ""
+  },
+  "docs/superpowers/specs/2026-10-22-hamechi-market-design.md": {
+    "mtime": 1792666043.7578487,
+    "ast_hash": "abbf3b49ec0138003d2debbd36b5fdcf",
+    "semantic_hash": ""
+  },
+  "requirements.txt": {
+    "mtime": 1792665424.218252,
+    "ast_hash": "9f05ac921628aec7814d6d6d07b3d7ec",
+    "semantic_hash": ""
+  },
+  "tests/test_api_clients.py": {
+    "mtime": 1792667760.8530624,
+    "ast_hash": "60ba77d7ae4199ffbbd0c0dd10e0fc83",
+    "semantic_hash": ""
+  },
+  "tests/test_application.py": {
+    "mtime": 1792673351.4715126,
+    "ast_hash": "9da02d3466cc9f3aaec05d5bbb53bc40",
+    "semantic_hash": ""
+  },
+  "tests/test_bot_flow.py": {
+    "mtime": 1792685917.6355953,
+    "ast_hash": "95c9d199075d04f3e93f72bc2dd2f322",
+    "semantic_hash": ""
+  },
+  "tests/test_config.py": {
+    "mtime": 1792667445.311383,
+    "ast_hash": "18957dcb59a669ddf56e20c12429bb68",
+    "semantic_hash": ""
+  },
+  "tests/test_storage.py": {
+    "mtime": 1792667445.570381,
+    "ast_hash": "213fbee5026ed585aed98d782b3de7c4",
+    "semantic_hash": ""
+  }
+}

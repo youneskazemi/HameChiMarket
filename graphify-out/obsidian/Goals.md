@@ -1,0 +1,17 @@
+---
+source_file: "docs/superpowers/specs/2026-10-22-hamechi-market-design.md"
+type: "document"
+community: "Community 8"
+location: "L7"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_8
+---
+
+# Goals
+
+## Connections
+- [[HameChiMarket MVP Design]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_8

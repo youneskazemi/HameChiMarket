@@ -1,0 +1,19 @@
+[Unit]
+Description=HameChiMarket Telegram Bot
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/HameChiMarket
+ExecStart=/opt/HameChiMarket/.venv/bin/python -m hamechi_market
+Restart=always
+RestartSec=5
+EnvironmentFile=/opt/HameChiMarket/.env
+
+# Security Hardening
+ProtectSystem=full
+ReadWritePaths=/opt/HameChiMarket/data
+
+[Install]
+WantedBy=multi-user.target
